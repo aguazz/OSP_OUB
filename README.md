@@ -1,4 +1,5 @@
-# OSP_OUB: Optimal Stopping Problem Problem of an Ornstein-Uhlenbeck Bridge
+# OSP_OUB: 
+Optimal stopping problem  of an Ornstein-Uhlenbeck bridge
 
 ## Description: 
 This function computes the Optimal Stopping Boundary Boundary (OSB) that maximizes the mean of an Ornstein-Uhlenbeck Bridge (OUB)
