@@ -1,2 +1,7 @@
 # OSP_OUB
-Computes the optimal stopping boundary that maximazes the mean of an Ornstein-Uhlenbeck bridge
+
+## Description: 
+This function computes the Optimal Stopping Boundary Boundary (OSB) that maximizes the mean of an Ornstein-Uhlenbeck Bridge (OUB)
+
+## Details:
+A Picard's iteration algorithm is implemented to solve the free-boundary equation that characterizes the OSB. Details can be found in the companion paper Optimal Stopping of an Ornstein-Uhlenbeck bridge, by D'Auria, B., García-Portugués E., and Guada A.
